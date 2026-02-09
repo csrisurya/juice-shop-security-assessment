@@ -146,7 +146,7 @@ semgrep --config=p/sql-injection
 semgrep --config=p/xss
 ```
 
-#### [SAST Analysis Report](sast-analysis-findings.md) Critical Findings
+#### [SAST Analysis Report](sast-analysis/sast-analysis-findings.md) Critical Findings
 
 **1. SQL Injection - Login Endpoint**
 - **File**: `routes/login.ts:34`
@@ -188,7 +188,7 @@ semgrep --config=p/xss
 
 **Command**: `snyk test > snyk-report.txt`
 
-#### [SCA Analysis Report](sca-analysis-findings.md) Critical Vulnerabilities
+#### [SCA Analysis Report](sca-analysis/sca-analysis-findings.md) Critical Vulnerabilities
 
 **1. Remote Code Execution in vm2@3.9.17** 
 - **CVEs**: 4 (3 RCE, 1 Sandbox Bypass)
