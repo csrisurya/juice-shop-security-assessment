@@ -1,6 +1,6 @@
 # Comprehensive Security Assessment of OWASP Juice Shop
 
-**Target**: OWASP Juice Shop (Intentionally Vulnerable Web Application)
+**Target**: [**OWASP Juice Shop**](https://github.com/juice-shop/juice-shop) (Intentionally Vulnerable Web Application)
 
 ---
 
@@ -412,10 +412,3 @@ juice-shop-security-assessment/
 - **OWASP Cheat Sheet Series**: https://cheatsheetseries.owasp.org/
 - **SQL Injection Prevention**: https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
 - **XSS Prevention**: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
-
-
----
-
-## Acknowledgement
-
-This security assessment was performed on [**OWASP Juice Shop**](https://github.com/juice-shop/juice-shop), an intentionally vulnerable application designed for security training. All testing was conducted in a local development environment.
